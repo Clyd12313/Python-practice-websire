@@ -1,2 +1,2 @@
-# Python-practice-websire
+# Python-practice-website
 A practice website for Clyd
